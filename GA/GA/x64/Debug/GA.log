@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\khali\source\repos\GA\GA\main.cpp(9,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+main.obj : error LNK2001: unresolved external symbol "private: static int Rocket::frame" (?frame@Rocket@@0HA)
+C:\Users\khali\source\repos\GA\x64\Debug\GA.exe : fatal error LNK1120: 1 unresolved externals
